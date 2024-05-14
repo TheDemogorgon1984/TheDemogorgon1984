@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheDemogorgon1984
 - 👀 I’m interested in Cats, Programming, and Eleven from Stranger Things
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Eleven is the best number
+- ⚡ Fun fact: Cats can rotate their ears 180 degrees
 
 <!---
 KitcatCatlord/KitcatCatlord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
